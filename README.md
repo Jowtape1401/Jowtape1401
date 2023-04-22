@@ -1,6 +1,6 @@
 
 ### Olá! Me chamo João Pedro Abreu 🤗
-### Tenho 20 anos, e sempre fui apaixonado por tecnologia e muito curioso, meu primeiro contato com tecnologia foi por volta dos 5 anos de idade quando minha irmã ganhou um computador da HP e desde lá venho descobrindo e aprendendo muito, atualmente estou cursando "ADS" na Faculdade Impacta e tenho me apaixonado ainda mais pela tecnologia.
+### Tenho 20 anos, dev. Full Stack em busca de aprender cada dia mais!! 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaopedroabreudasilva/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/joaopedroabreuu/)
