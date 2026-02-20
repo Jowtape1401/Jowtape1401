@@ -6,7 +6,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/joaopedroabreuu/)
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/jowtapee)
 
-![Jowtape GitHub stats](https://github-readme-stats.vercel.app/api?username=Jowtape1401&show_icons=true&theme=merko)
 
 ## Tecnologias que utilizo:
 
